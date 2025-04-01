@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Conductor">
+    <Position X="0.5" Y="8.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Conductor::Style" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Conductor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAQBAAQAAAAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Conductor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Instrument">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAggEAIAAAAAAIAIAAAAAACACAggAAAAAIAQAAAgA=</HashCode>
+      <FileName>Instrument.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAAAAEAAAAAACAEAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Musician">
+    <Position X="3.75" Y="12" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAKAAAg=</HashCode>
+      <FileName>Musician.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orchestra">
+    <Position X="10.75" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>mIMABAYEFQBAABIEFAEAAAACAKoFAkBpBEEEAAgAAgA=</HashCode>
+      <FileName>Orchestra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cello">
+    <Position X="1.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAIAAAAAAAAAAAAAAAAQACAAAAAAAAAwAAAggQ=</HashCode>
+      <FileName>Cello.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flute">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAABAAAAAQAAAAAAgAACAACAEAAIAAAAAAIA=</HashCode>
+      <FileName>Flute.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piano">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAgAAAAAAQACAAAABAAAgACAAAgA=</HashCode>
+      <FileName>Piano.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Violin">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAgAAAAAQACAAAAAAAAAQQAAAAQ=</HashCode>
+      <FileName>Violin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElectricPiano">
+    <Position X="8.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACgAAAAgAgAAAICAAIAAAAgAgIBAIAA=</HashCode>
+      <FileName>ElectricPiano.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="16.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAAAIAAAAAAAAAAEQAAAAAQAAgABAAAAAAQAQAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Time">
+    <Position X="18.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAABAAAABAAAAAAAAABAAAABAAAQAAAAAAAAAAAQA=</HashCode>
+      <FileName>Time.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicPiece">
+    <Position X="13.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQABAAAQAQACAAAAAAAAABAAEUAAAAIBAACAIgAAA=</HashCode>
+      <FileName>MusicPiece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Concert">
+    <Position X="13.75" Y="5.25" Width="2.5" />
+    <Members>
+      <Field Name="time" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EAIRBQAABBAAAAAAEAAAAAAAAAAUEAAAAAAAEQEQAAA=</HashCode>
+      <FileName>Concert.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstrumentPlayer">
+    <Position X="4.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAQEQAAAAAAAAECACAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>InstrumentPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
